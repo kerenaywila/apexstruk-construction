@@ -1,7 +1,6 @@
 import { ShieldCheck, HardHat, Scale, Leaf, FileText } from "lucide-react";
 
 export default function ProfileView() {
-
   return (
     <div className="bg-white py-16">
       <div className="max-w-7xl mx-auto px-6 space-y-16">
