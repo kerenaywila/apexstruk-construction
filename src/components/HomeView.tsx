@@ -1,13 +1,7 @@
-import React from "react";
 import {
   ArrowRight,
   CheckCircle,
-  Award,
-  ShieldAlert,
-  Zap,
-  Layers,
-  MapPin,
-  ExternalLink,
+  Layers
 } from "lucide-react";
 import { STATISTICS, SERVICES, PROJECTS } from "../data";
 
@@ -33,7 +27,7 @@ export default function HomeView({
       <section className="relative h-[650px] flex items-center justify-center overflow-hidden bg-[#0A0F1D]">
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_lagos_construction_1781938854594.jpg"
+            src="/images/hero_lagos_construction_1781938854594.jpg"
             alt="Lagos High-Rise Construction Site at dawn"
             className="w-full h-full object-cover opacity-55"
             referrerPolicy="no-referrer"
@@ -80,7 +74,7 @@ export default function HomeView({
           <div className="lg:col-span-5 relative">
             <div className="border-[8PX] border-[#0b1f3a] rounded overflow-hidden shadow-lg z-10 relative bg-white">
               <img
-                src="/src/assets/images/nigerian_engineers_ppe_1781938926608.jpg"
+                src="/images/nigerian_engineers_ppe_1781938926608.jpg"
                 alt="Nigerian Civil Engineers inspecting blueprints on active site"
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"

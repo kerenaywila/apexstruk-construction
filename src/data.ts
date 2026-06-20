@@ -106,7 +106,7 @@ export const PROJECTS: Project[] = [
       'Client': 'Oceanview Premium Estates Ltd',
       'Lead Project Manager': 'Engr. Bamidele Adeleke, FNSE'
     },
-    image: '/src/assets/images/lekki_estate_completed_1781938873044.jpg'
+    image: '/images/lekki_estate_completed_1781938873044.jpg'
   },
   {
     id: 'trans-amadi-plaza',
@@ -131,7 +131,7 @@ export const PROJECTS: Project[] = [
       'Client': 'Delta Alliance Energy Resources Ltd',
       'Lead Civil Engineer': 'Engr. Mrs. Chioma Nwachukwu, MNSE'
     },
-    image: '/src/assets/images/trans_amadi_plaza_1781938887863.jpg'
+    image: '/images/trans_amadi_plaza_1781938887863.jpg'
   },
   {
     id: 'abuja-drainage',
@@ -155,7 +155,7 @@ export const PROJECTS: Project[] = [
       'Contracting Partner': 'Federal Capital Development Authority (FCDA)',
       'Lead Infrastructure Engineer': 'Engr. Abubakar Yusuf, COREN Reg.'
     },
-    image: '/src/assets/images/abuja_highway_drainage_1781938905429.jpg'
+    image: '/images/abuja_highway_drainage_1781938905429.jpg'
   },
   {
     id: 'fct-warehouses',
@@ -178,6 +178,6 @@ export const PROJECTS: Project[] = [
       'Client': 'North-Central Logistics Hub Ltd',
       'Lead Fabricator': 'Engr. Festus Omokungbe, MNSE'
     },
-    image: '/src/assets/images/hero_lagos_construction_1781938854594.jpg'
+    image: '/images/hero_lagos_construction_1781938854594.jpg'
   }
 ];
