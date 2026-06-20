@@ -1,23 +1,6 @@
 import { ShieldCheck, HardHat, Scale, Leaf, FileText } from "lucide-react";
 
 export default function ProfileView() {
-  const team = [
-    {
-      name: "Engr. Alhaji Yusuf Danladi, FNSE, COREN Reg.",
-      role: "Chairman & Chief Executive Officer",
-      bio: "Over 32 years of pioneer infrastructure operations in northern Nigeria and Abuja municipal councils. Former executive member of the Nigerian Society of Engineers (NSE) and federal coordinator for metropolitan development contracts.",
-    },
-    {
-      name: "Engr. Mrs. Chioma Nwachukwu, MNSE",
-      role: "Director of Structural Infrastructure",
-      bio: "A graduate of Civil Engineering from the University of Ibadan with an M.Sc. from Imperial College London. Leading structural supervisor who has oversaw some of the major commercial structures in Port Harcourt industrial and gas basins.",
-    },
-    {
-      name: "Engr. Olufemi Sowande, FNSE",
-      role: "Principal Geotechnical Lead",
-      bio: "An authority on deep coastal marine sub-base piling and foundation engineering with over 18 years of operations in Victoria Island, Eko Atlantic, and Lekki Peninsula sand structures.",
-    },
-  ];
 
   return (
     <div className="bg-white py-16">
