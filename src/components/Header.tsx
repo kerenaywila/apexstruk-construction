@@ -59,7 +59,7 @@ export default function Header({ activeTab, setActiveTab }: HeaderProps) {
               onClick={() => handleNavClick("home")}
             >
               <img
-                src="src/assets/images/logo.png"
+                src="assets/images/logo.png"
                 alt="Company Logo"
                 className="h-20 w-auto"
               />
